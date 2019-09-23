@@ -17,3 +17,5 @@ In this course, we studied several concepts in <b>Computer Vision</b> such as:
 The course also has a lab with the following assignments, which were done using Matlab:
 > Lab1: <br>
 <t> Edge detection in noisy grayscale images <b>(Part 1)</b>, interest points detection <b>(Part 2)</b> and image classification using the BOVW (bag of visual words) concept <b>(Part 3)</b>. In Part 3, the training dataset is not provided due to its large size.
+> Lab2: <br>
+<t> Tracking of human face using the skin colour. The training was done by a parameter fit to a 2D Gaussian function <b>(Part 1)</b>. In the next part, we calculated the optical flow of the face along the different frames of the video and applied the Lucas-Kanade Algorithm in order to keep track of it <b>(Part 2)</b>.
