@@ -1,6 +1,6 @@
 # Computer Vision Assignments
 ## National Technical University of Athens, School of Electrical and Computer Engineering
-### Lab assignments for the 7th semester course Computer Vision
+### Lab assignments for the 8th semester course Computer Vision
 
 In this course, we studied several concepts in <b>Computer Vision</b> such as:
 * Image Geometry and Creation of Images
