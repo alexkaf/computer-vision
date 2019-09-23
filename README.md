@@ -16,4 +16,4 @@ In this course, we studied several concepts in <b>Computer Vision</b> such as:
 
 The course also has a lab with the following assignments, which were done using Matlab:
 > Lab1: <br>
-<t> Edge detection in noisy grayscale images <b>(Part 1)</b>, interest points detection <b>(Part 2)</b> and image classification using the BOVW (bag of visual words) concept <b>(Part 3)</b>.
+<t> Edge detection in noisy grayscale images <b>(Part 1)</b>, interest points detection <b>(Part 2)</b> and image classification using the BOVW (bag of visual words) concept <b>(Part 3)</b>. In Part 3, the training dataset is not provided due to its large size.
